@@ -1,0 +1,8 @@
+The steps of database design. 
+1) Analysis: Aka Discovery*
+2) Logical Design **
+3) Implementation Design
+4) Implement
+
+*Discovery: Identifying all the entities' relationships and attributes.
+**Done often in Entity-Relationship (ER) diagrams. 
